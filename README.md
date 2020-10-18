@@ -1,4 +1,4 @@
-# Challenge CdeCMX 2020
+# Challenge CdeCMX 2020-1
 
 Notebook y datos utilizados durante el CdeCMX Challenge titulado "Soluciones científicas a problemas emergentes: La vida durante la pandemia", como introducción al machine learning y al modelado de casos de COVID-19 en México.
 
